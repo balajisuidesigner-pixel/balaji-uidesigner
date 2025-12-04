@@ -206,7 +206,7 @@ a.btn {
     }
 
     .header .profile {
-        max-width: 800px;
+        max-width: 900px;
         margin: 0 auto;
     }
 
@@ -1185,3 +1185,4 @@ li.liFixed {
     display: inline-block;
     min-width: 225px;
 }
+
